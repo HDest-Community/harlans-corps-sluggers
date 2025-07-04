@@ -1,0 +1,13 @@
+destroyer/shootmain "Sounds/mainshoot.wav"
+destroyer/openmain "Sounds/mainopen.wav"
+$volume destroyer/openmain 0.7
+destroyer/closemain "Sounds/mainclose.wav"
+$volume destroyer/closemain 0.7
+
+$random destroyer/insertmain {destroyer/insert1 destroyer/insert2}
+destroyer/insert1 "Sounds/maininsert1.wav"
+destroyer/insert2 "Sounds/maininsert2.wav"
+
+destroyer/shootside "Sounds/sideshoot.wav"
+destroyer/openside "Sounds/sideopen.wav"
+destroyer/insertside "Sounds/sideinsert.wav"

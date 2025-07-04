@@ -1,0 +1,28 @@
+// Destroyer Spawn Entries
+addSpawnTableSingleEntry => { "tableName": "ShotgunReplaces", "name": "DestroyerSpawn", "weight": "0.2734375", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "SuperShotgunReplaces", "name": "DestroyerSpawn", "weight": "0.8203125", "persists": "true" }
+
+// Nora Spawn Entries
+addSpawnTableSingleEntry => { "tableName": "ShotgunReplaces", "name": "Nora4GASpawn", "weight": "0.625", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "SuperShotgunReplaces", "name": "Nora4GASpawn", "weight": "1.6953125", "persists": "true" }
+
+// One-Fourth Spawn Entries
+addSpawnTableSingleEntry => { "tableName": "ShotgunReplaces", "name": "OneFourthSpawn", "weight": "0.4296875", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "SuperShotgunReplaces", "name": "OneFourthSpawn", "weight": "1.1484375", "persists": "true" }
+
+// Shredder Spawn Entries
+addSpawnTableSingleEntry => { "tableName": "ChaingunReplaces", "name": "ShredderSpawn", "weight": "0.203125", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "BFG9000Replaces", "name": "ShredderSpawn", "weight": "0.10546875", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "CellReplaces", "name": "HDShredderBox", "weight": "0.02142333984375", "persists": "true" }
+addSpawnTableSingleEntry => { "tableName": "CellPackReplaces", "name": "HDShredderBox", "weight": "0.875", "persists": "true" }
+
+// Ammo Usages
+addAmmoUser => { "ammoName": "SevenMilAmmo", "name": "HDDestroyer" }
+addAmmoUser => { "ammoName": "HD4GSAmmo", "name": "HDDestroyer" }
+
+addAmmoUser => { "ammoName": "HD4GBAmmo", "name": "HD4GBBlaster" }
+addAmmoUser => { "ammoName": "HD4GSAmmo", "name": "HD4GBBlaster" }
+
+addAmmoUser => { "ammoName": "HDShellAmmo", "name": "HDOneFourth" }
+addAmmoUser => { "ammoName": "HDSlugAmmo", "name": "HDOneFourth" }
+addAmmoUser => { "ammoName": "HD4GSAmmo", "name": "HDOneFourth" }

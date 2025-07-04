@@ -1,0 +1,6 @@
+version "4.7"
+
+#include "zscript/khan/weapons/destroyer/Destroyer.zsc"
+#include "zscript/khan/weapons/nora/Nora.zsc"
+#include "zscript/khan/weapons/one-fourth/OneFourth.zsc"
+#include "Zscript/khan/weapons/shredder/Shredder.zsc"
