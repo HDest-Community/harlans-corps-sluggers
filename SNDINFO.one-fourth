@@ -1,7 +1,7 @@
-weapons/onefourthshot   "Sounds/ofshoot.wav"
-weapons/onefourthforward    "Sounds/leverforward.wav"
-weapons/onefourthbackward   "Sounds/leverbackward.wav"
-weapons/onefourthfull   "Sounds/levercycle.wav"
+weapons/onefourthshot   "sounds/one-fourth/ofshoot.wav"
+weapons/onefourthforward    "sounds/one-fourth/leverforward.wav"
+weapons/onefourthbackward   "sounds/one-fourth/leverbackward.wav"
+weapons/onefourthfull   "sounds/one-fourth/levercycle.wav"
 $volume weapons/onefourthforward 0.4
 $volume weapons/onefourthbackward 0.4
 $volume weapons/onefourthfull 0.4
