@@ -8,16 +8,16 @@ This mod aims to collect and maintain the weapons made by Khan (a.k.a. Zany/Zany
 
 ### Destroyer
 
+The "Destroyer" break-action 4 gauge and 7.76mm "combination" gun is the "Slayer" counterpart of the One-Fourth (and arguably the bigger cousin of both the Slayer and the Wyvern if you could call it that). This all-metal behemoth boasts two massive, rifled barrels designed for firing the 4 gauge saboted slugs with extreme accuracy, along with two smaller barrels for fitting in 7.76mm rounds to take down smaller targets. The extra length gives the propellants more time to push the projectiles, meaning more velocity and hence, more damage compared to the One-Fourth. It also comes with a scope if one feels like sniping a Cyberdemon from afar.
+
+Warning: Do NOT double shot the main barrels unbraced.
+
+
 loadout code is `dtr`
 
-### Nora
-
-loadout codes:
-
-`n4g` for the gun
-`slug` to start with slugs loaded
-
 ### One-Fourth
+
+The first of Harlan Corps' weapons, the "One-Fourth" 4 gauge lever-action shotgun is a "compact, light, and small" weapon designed for close-ranged engagements, being much less unwieldy compared to its bigger cousins. It holds just enough ammo to be able to take down a single Cyberdemon, and is about small enough to fit into a backpack. The One-Fourth also comes with an underbarrel, sawed-off Slayer, capable of chambering both 12 gauge buckshots and 12 gauge slugs, meant for taking down smaller targets or when you do not have ammo for the main gun. Double shots with slugs are particularly effective against shields and armour.
 
 loadout codes:
 
@@ -25,6 +25,9 @@ loadout codes:
 `slug` to start with slugs loaded for the underbarrel slayer
 
 ### Shredder
+
+On one extreme end of the 4 gauge weapons, we have the Shredder. This monstrosity can fire up to 51 25mm saboted slugs at a controllable rate with equally controllable recoil, even when not braced due to the superheavy nature of the weapon and the provided muzzle brake. To avoid being too big to carry, the barrel has to be made short to which the weapon's accuracy will noticeably suffer, rendering it unfit for long range engagements. The Shredder also comes with an underbarrel, heavily stripped down Liberator, meant for taking down things that would be considered overkill for the 4 gauge slugs. When you want to mow down an entire army of hell nobles and bosses, this is the gun for you.
+
 
 loadout codes:
 
@@ -55,26 +58,6 @@ https://gamebanana.com/sounds/31710
 https://gamebanana.com/sounds/25374
 https://gamebanana.com/sounds/39874
 (edited and layered some sounds together)
-
-### Nora
-
-Codes:
-Matt - vanilla gun codes
-PrettyFist - greely code
-Accensus - spawn code
-
-Sprites:
-Kato - gun sprites
-Warry - cleaning up said gun sprites
-Torridgristle - hands (made the gloves black &  some editing): http://i.imgur.com/FIYBDSI.png
-Muzzle flash (various edits): https://www.pngitem.com/middle/ixbJTbh_doom-muzzle-flash-sprites-hd-png-download/
-
-Sounds:
-Tiberium Soul - firing sounds
-https://gamebanana.com/sounds/26954 - rack sounds
-
-Other:
-Khan - completing this gun
 
 ### One-Fourth
 
