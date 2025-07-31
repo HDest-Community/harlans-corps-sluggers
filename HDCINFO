@@ -12,6 +12,7 @@ addSpawnTableSingleEntry => { "tableName": "BFG9000Replaces", "name": "ShredderS
 addSpawnTableSingleEntry => { "tableName": "CellReplaces", "name": "HDShredderBox", "weight": "0.02142333984375", "persists": "true" }
 addSpawnTableSingleEntry => { "tableName": "CellPackReplaces", "name": "HDShredderBox", "weight": "0.875", "persists": "true" }
 
+
 // Ammo Usages
 addAmmoUser => { "ammoName": "SevenMilAmmo", "name": "HDDestroyer" }
 addAmmoUser => { "ammoName": "HD4GSAmmo", "name": "HDDestroyer" }
@@ -19,3 +20,11 @@ addAmmoUser => { "ammoName": "HD4GSAmmo", "name": "HDDestroyer" }
 addAmmoUser => { "ammoName": "HDShellAmmo", "name": "HDOneFourth" }
 addAmmoUser => { "ammoName": "HDSlugAmmo", "name": "HDOneFourth" }
 addAmmoUser => { "ammoName": "HD4GSAmmo", "name": "HDOneFourth" }
+
+
+// Merchant Store Entries
+newMerchantStoreItem => { "enabled": "#hdm_enable_destroyer", "type": "weapon", "category": "$MERCH_CAT_DESTROYER", "item": "HDDestroyer", "icon": "DTPSA0", "displayName": "$MERCH_TAG_DESTROYER", "basePrice": "500", "flavorText": "$MERCH_FLAVOR_DESTROYER" }
+newMerchantStoreItem => { "enabled": "#hdm_enable_onefourth", "type": "weapon", "category": "$MERCH_CAT_ONEFOURTH", "item": "HDOneFourth", "icon": "OFPSA0", "displayName": "$MERCH_TAG_ONEFOURTH", "basePrice": "750", "flavorText": "$MERCH_FLAVOR_ONEFOURTH" }
+newMerchantStoreItem => { "enabled": "#hdm_enable_shredder", "type": "weapon", "category": "$MERCH_CAT_SHREDDER", "item": "HDShredder", "icon": "SDPSA0", "displayName": "$MERCH_TAG_SHREDDER", "basePrice": "1500", "flavorText": "$MERCH_FLAVOR_SHREDDER" }
+
+newMerchantStoreItem => { "enabled": "#hdm_enable_shreddermag", "type": "mag", "category": "$MERCH_CAT_SHREDDERMAG", "item": "HDShredderBox", "icon": "SBPSA0", "displayName": "$MERCH_TAG_SHREDDERMAG", "basePrice": "1000", "flavorText": "$MERCH_FLAVOR_SHREDDERMAG" }

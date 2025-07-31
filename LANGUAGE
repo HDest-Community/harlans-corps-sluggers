@@ -1,0 +1,17 @@
+[enu default]
+
+MERCH_CAT_DESTROYER = "Harlan Corps";
+MERCH_TAG_DESTROYER = "'Destroyer' 4ga & 7.76mm Combination Gun";
+MERCH_FLAVOR_DESTROYER = "";
+
+MERCH_CAT_ONEFOURTH = "Harlan Corps";
+MERCH_TAG_ONEFOURTH = "'ONe-Fourth' 4ga Shotgun";
+MERCH_FLAVOR_ONEFOURTH = "";
+
+MERCH_CAT_SHREDDER = "Harlan Corps";
+MERCH_TAG_SHREDDER = "'Shredder' 4ga & 7.76mm Autocannon";
+MERCH_FLAVOR_SHREDDER = "";
+
+MERCH_CAT_SHREDDERMAG = "Harlan Corps";
+MERCH_TAG_SHREDDERMAG = "'Shredder' 4ga Drum Magazine";
+MERCH_FLAVOR_SHREDDERMAG = "";

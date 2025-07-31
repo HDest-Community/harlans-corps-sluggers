@@ -1,0 +1,5 @@
+// Merchant Store Entries
+server bool hdm_enable_destroyer   = true;
+server bool hdm_enable_onefourth   = true;
+server bool hdm_enable_shredder    = true;
+server bool hdm_enable_shreddermag = true;
